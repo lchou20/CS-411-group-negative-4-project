@@ -5,7 +5,8 @@ address is located.
 
 How to use:
 
-Ok so first go to the terminal then cd to the project. 
+After downloading the file in this repository.
+First go to the terminal then cd to the project. 
 Then type in: “brew install node”. 
 Then once that is complete type in: “npm install”. 
 Then once thats complete type in: "node server.js” to start the server. 
